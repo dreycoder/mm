@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.get-out {
+    display: none;
+}
+
+body {
+    color: #40514E;
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 0;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+
+p {
+    line-height: 2;
+}
+
+.st-container {
+    background-color: #e3fff4;
+    padding-top: 100px;
+}
+
+.spa {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #5aa0a0;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto -27px auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+.dev-h2 {
+    font-weight: normal;
+}
+
+h2,
+h3 {
+    font-family: 'Dosis', sans-serif;
+}
+
+h3 {
+    margin: 50px 0;
+}
+
+h3,
+a {
+    color: #11999E;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 250px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.dev {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.yt {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.hel-a {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 30%;
+}
+
+.hello-img {
+    width: 15%;
+}
+
+
+.btn {
+    background-color: #1a1a1a;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 13px;
+    border-radius: 0px;
+}
+
+.btn:hover {
+    background: #454545;
+    border: solid #337FED 0px;
+    border-radius: 0px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #9effd9;
+    padding: 50px 0 20px;
+}
+
+.bottom-container a {
+    color: #00663e;
+    margin: 10px 20px;
+}
+
+.bottom-container a:hover {
+    color: #00b16b;
+}
+
+a {
+    text-decoration: none;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+hr {
+    border: dotted #e2e2e2 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    text-align: center;
+    width: 4%;
+}
+
+code {
+    background-color: #e8e8e8;
+    font-family: monospace;
+    padding: 2px 4px;
+}
+
+.copy {
+    color: #555555;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
